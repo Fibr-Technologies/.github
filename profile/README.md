@@ -1,5 +1,7 @@
-## Fibr Technologies
-Cutting edge technology to keep you connected.
+# Fibr Technologies
+Cutting edge technology to keep you connected. 
+https://fibr.social
+
 <!--
 
 **Here are some ideas to get you started:**
